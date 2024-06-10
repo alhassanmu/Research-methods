@@ -22,7 +22,7 @@
 7. Prepare three cDNA libraries with primers tagged with specific barcodes, purify amplicons at equimolar concentrations, and pool samples.
 8. Sequence pooled samples using Illumina HiSeq 2500 platform.
 
-![alt text](image-4.png)
+![alt text](image-1.png)
 Figure 1: Experimental design for studying oxidative stress and microbiome analysis in *B. pharaonis*
 
 | Jar number | Temperature (°C) | Mussel count | Initial WTW (ml/O<sub>2</sub>/min) | Final WTW (ml/O<sub>2</sub>/min) | WTW (%) |
@@ -35,11 +35,11 @@ Figure 1: Experimental design for studying oxidative stress and microbiome analy
 
 ## **Scientific references**
 
-[science](https://www.science.org/doi/full/10.1126/science.aax0110)
+[Breakdown in spawning synchrony: A silent threat to coral persistence](https://www.science.org/doi/full/10.1126/science.aax0110)
 
-[Nature ](https://www.nature.com/articles/s42003-021-01727-9)
+[Depth-dependent parental effects create invisible barriers to coral dispersal ](https://www.nature.com/articles/s42003-021-01727-9)
 
-[Nature ](https://www.nature.com/articles/s41597-020-00793-8)
+[An Indo-Pacific coral spawning database ](https://www.nature.com/articles/s41597-020-00793-8)
 
 ## **Link for an online protocol of a chemical/instrument**
 [Antioxidant Assay Kit ](https://www.sigmaaldrich.com/GR/en/product/sigma/cs0790#product-documentation)
